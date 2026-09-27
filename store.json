@@ -9,16 +9,6 @@
       "UploadedAt": "2026-09-27T15:39:07.9631824+01:00",
       "ZipTag": "mod-gro-mods",
       "ZipName": "gro-mods.zip"
-    },
-    {
-      "Id": "f1678123663146e9ad5e5f101da19e27",
-      "Name": "ZZ Store E2E",
-      "Author": "tester",
-      "BatPath": "mods/zz-store-e2e/e2emod.bat",
-      "ImagePath": null,
-      "UploadedAt": "2026-09-27T15:40:26.4849315+01:00",
-      "ZipTag": "mod-zz-store-e2e",
-      "ZipName": "zz-store-e2e.zip"
     }
   ]
 }
